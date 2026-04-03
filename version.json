@@ -1,0 +1,9 @@
+{
+    "version": "0.6.18.1",
+    "lastUpdated": "Jan 25",
+    "changes": [
+        "Fixes for game update v2.15.3",
+        "The \"What's new\" screen is no longer shown automatically after insignificant updates (such as this one)"
+    ],
+    "isSignificant": false
+}
